@@ -23,6 +23,7 @@ ___
 ## 联系方式
 ___
 * [CSDN](https://blog.csdn.net/dangbai01_/category_7213370.html)  
-* qq群  713117872
+* qq群 当白的技术小窝 : [713117872](https://qm.qq.com/cgi-bin/qm/qr?k=PM_tC8h_Vtk3TCibgOk1JCAOVvjBPkeY&jump_from=webapi)  
+* 知乎 [当白](https://www.zhihu.com/people/dang-bai-82)
+
   
-  ![当白的技术小窝qq群](./img.png)
